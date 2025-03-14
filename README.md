@@ -19,7 +19,7 @@ cd temperature-Conversion-Program
 ## Run the Program:
 Ensure you have Python installed on your system. Then, run the program using the following command:
 
-python temperature-Conversion-Program.py
+python3 temperature-Conversion-Program.py
 
 ## Input Temperature:
 
@@ -48,6 +48,7 @@ Contributions are welcome! If you find any issues or want to improve the program
 
 ## Author
 Joe Brian
+
 https://github.com/JoeB022
 
 joebrian.dev@gmail.com
